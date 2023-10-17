@@ -1,0 +1,15 @@
+﻿Programa program = new Programa();
+Console.WriteLine("---------------------------------------------");
+Console.WriteLine("Primer Ejercicio__");
+program.Ejercicio1();
+Console.WriteLine("---------------------------------------------");
+Console.WriteLine("Segundo Ejercicio__");
+program.Ejercicio2();
+Console.WriteLine("---------------------------------------------");
+program.Ejercicios3();
+Console.WriteLine("---------------------------------------------");
+program.Ejercicios4();
+Console.WriteLine("---------------------------------------------"); 
+program.Ejercicios5();
+Console.WriteLine("---------------------------------------------");
+program.Ejercicios6();
